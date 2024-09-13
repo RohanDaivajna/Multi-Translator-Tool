@@ -49,10 +49,10 @@ This project is a graphical user interface (GUI) application for language transl
 
 #To run the compiled executable:
 
-1.**Navigate to the Directory Containing Translator.exe**
+1. **Navigate to the Directory Containing Translator.exe**
     cd yourdirectory
 
 When running Translator.exe, make sure that the translation.ico file is in the same directory as the executable. The application requires this file for its icon.
 
-2.**Run the Executable**
+2. **Run the Executable**
     Translator.exe
