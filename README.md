@@ -26,9 +26,10 @@ This project is a graphical user interface (GUI) application for language transl
 
 1. **Clone the Repository**
    git clone https://github.com/yourusername/yourrepository.git
+   
    cd yourrepository
 
-2. **Create and Activate a Virtual Environment**
+3. **Create and Activate a Virtual Environment**
     python -m venv env
 
     On Windows:
@@ -37,10 +38,10 @@ This project is a graphical user interface (GUI) application for language transl
     On macOS/Linux:
     source env/bin/activate
 
-3. **Install Required Packages**
+4. **Install Required Packages**
     pip install -r requirements.txt
 
-4. **Running the Application**
+5. **Running the Application**
     To run the application directly from the Python script:
     python Translator.py
 
